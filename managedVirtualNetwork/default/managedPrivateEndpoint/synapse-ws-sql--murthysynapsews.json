@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--murthysynapsews",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/695b0df7-7a2b-4e33-990e-5dccefd05935/resourceGroups/Day4RG/providers/Microsoft.Synapse/workspaces/murthysynapsews",
+		"groupId": "sql",
+		"fqdns": [
+			"murthysynapsews.69a4103e-d233-4410-b0ec-3b434a0c8e5b.sql.azuresynapse.net"
+		]
+	}
+}

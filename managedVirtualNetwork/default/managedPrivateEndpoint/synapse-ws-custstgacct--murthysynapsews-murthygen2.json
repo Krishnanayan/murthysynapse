@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--murthysynapsews-murthygen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/695b0df7-7a2b-4e33-990e-5dccefd05935/resourceGroups/Day4RG/providers/Microsoft.Storage/storageAccounts/murthygen2",
+		"groupId": "dfs"
+	}
+}
